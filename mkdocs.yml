@@ -1,0 +1,8 @@
+site_name: ARC Guide
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Contact: contact.md
+    
+theme: readthedocs
