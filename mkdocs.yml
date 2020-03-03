@@ -5,4 +5,6 @@ nav:
     - About: about.md
     - Contact: contact.md
     
-theme: readthedocs
+theme: material
+
+copyright: Written by The Predecessors 2020
