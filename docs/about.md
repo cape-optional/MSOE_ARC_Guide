@@ -1,39 +1,22 @@
-# Opem tria numina adhuc raptae unoque tamen
+# About the MSOE Amateur Radio Club
 
-## Et colorum positisque precanda
+## Meetings
 
-Lorem markdownum ille sinistris iunctoque mensis illud, saepe Ganymedes qua
-pectora. Neutra *convocat si* patriae cernunt. More pauper tellus!
+Meetings of the MSOE Amateur Radio Club (W9HHX) are held on Fridays while school is in session at MSOE in room 1203 of the MLH Dorm Building from Noon to 1pm. Meetings aren't held during the summer months, or during the final-exams week.
 
-> Pro danda auferor. Dea pondus quoque umor regisque ebibit non; est latum mundi
-> perterrita undam, traxere. Oculis retro sortite quod contigit ire Palameden
-> arma eat sed deceptaque altera!
+Our meetings are generally informal, and all members of the MSOE community are welcome to attend. Meeting activities typically include:
 
-## Fontis pius dolos et uda cumque submovit
+- Socializing with your fellow students
+- Planning & brainstorming future club events
+- Getting on our own 2m repeater and making short-range contacts
+- Getting on the HF radio and making voice and digital long-range contacts
+- Tours of our equipment in various locations around campus (for new members)
+- Presentations on subjects such as Emergency Communications, Satellites, Radio Sports
 
-Rarissima modo sacrorum, praedam et rex unde **Charybdis inque ferebat**. Indice
-tibi alis natus: esse i profuit alvum **domus** saeviat incoluit reducere;
-verborum umero caelamina. Gentibus nunc est; et ipse requiem poterat, omnia mihi
-Phorcidas. Suas inde sedit; patruelis ramosam altis.
+If you are a member of the greater Amateur Radio Community (not affiliated with MSOE) we welcome you to contact us and attend by invitation. We routinely have visitors from other ARCs around the Milwaukee Area, but please check in with us first!
 
-Inquit quod domuit nactus *erat caelo* versata pereuntem cupidine custodia
-confessis et pressit placuisse. Rupti erubuere postquam nostris, somno caecis
-Pelasgi non pastores utque edendo spreta servatae, nate. Precor omnia Belides,
-iuga rerum, herba. Hoc invita nitorem et odium sucis igitur vocatum vano secum
-percussae.
 
-## Totum fusus hanc unda columbae
 
-Iubeoque cum dextera adfuit. Videre ad Liber raptaque coniuge.
+## Club History
 
-Ex ferre haerens adparuit ossibus, es vultus, contraxere sanguine funda, deus!
-Quaeris exul sudataque **vacca quod forma**, formidabilis umbras te rapidus
-aspicit. Iuvenum Musa. Et percussa caput servantes moenia coluique propiora
-mecum propiora suas dominus sit utraque magnis, divino et.
-
-Tu siquid inque haerentia, rogus sedem [tanta
-regis](http://perque-latissima.net/excussitlacertis.aspx), et hinc meruique
-infectis quid, vos cum novem; nubes. Arma corpore [insidiaeque morer
-excipit](http://quibustolerare.org/et), dicentem variarum comes opem, dixit,
-quicquam Iove. Et pars Boreas eodem, tamen.
-
+The MSOE Amateur Radio Club was founded in 1914 at the Milwaukee School of Engineering, making it the longest running organization at our university. Over the years, we've been home to students of all majors and backgrounds as a fun place to hang out, discuss technical subjects, learn outside the classroom about RF and wireless technology, and get on the radio to make contacts.

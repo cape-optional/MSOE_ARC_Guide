@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - About: about.md
     - Contact: contact.md
+    - Events: events.md
     
 theme: material
 
