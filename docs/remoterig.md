@@ -2,7 +2,7 @@
 
 ## Overview & Purpose
 
-Previous to the Great Exodus of 2018, our club room was located on the third floor of the CC, on the East facing wall. This was conveninet for us because all our antennas were essentially immediately above our room, making it simple and easy for the coax to be send down through a PVC pipe into the room, and from there attached to the radios.
+Previous to the Great Exodus of 2018, our club room was located on the third floor of the CC, on the East facing wall. This was convenient for us because all our antennas were essentially immediately above our room, making it simple and easy for the coax to be sent down through a PVC pipe into the room, and from there attached to the radios.
 
 When then-Dean of Students Kip Kussman decided the school needed more office space, we were forced to move from this room in the CC and transfer our equipment to our current room in MLH. Thankfully we were given this new space, but it presented new problems to overcome. For instance, our antennas were not movable, and they were now a city block away, still on top of the CC. To get around this issue, we implemented a network link system, hereafter known as RemoteRig. This setup allows an operator in the MLH club room on the Yeasu FT-950 to seamlessly control the radio with all functionality, while remote-controlling an identical setup in the CC, which is where the antennas are actually connected, and where the RF is actually radiated.
 
@@ -12,7 +12,7 @@ When then-Dean of Students Kip Kussman decided the school needed more office spa
 
 This web address is the control interface for the local RemoteRig box in MLH. It should be accessible from any campus network. It offers settings for all functionality of the RemoteRig box.
 
-**RemoteRig Box in MLH (Local):**	w9hhxedgemlh.nebula.msoe.edu
+**RemoteRig Box in MLH (Local):** [w9hhxedgemlh.nebula.msoe.edu](w9hhxedgemlh.nebula.msoe.edu)
 
 ### Hardware Connections
 
@@ -30,7 +30,7 @@ To mute the speaker of the MLH 950, a 1/4" jack adaptor has been inserted into t
 
 #### RemoteRig Box
 
-Usefull information goes here - BHJ
+Useful information goes here - BHJ
 
 
 
@@ -44,9 +44,9 @@ The setup in the Campus Center (CC) is located in the Mezzanine level maintenanc
 
 The following web interface links are the same address, but on different ports. The interface on explicit port 8080 is the interface for the relay box & antenna rotator unit. The interface without an explicit port number is the web interface of the RemoteRig Box in the CC.
 
-**RemoteRig Box in CC (Remote):**	w9hhxedge.cc.nebula.msoe.edu
+**RemoteRig Box in CC (Remote):** [w9hhxedge.cc.nebula.msoe.edu](w9hhxedge.cc.nebula.msoe.edu)
 
-**RotorController/Relay Box in CC:**	w9hhxedge.cc.nebula.msoe.edu:8080
+**RotorController/Relay Box in CC:** [w9hhxedge.cc.nebula.msoe.edu:8080](w9hhxedge.cc.nebula.msoe.edu:8080)
 
 ### Hardware Connections
 
