@@ -1,4 +1,4 @@
-# Events & Activities we Participate In
+# Events & Activities we Participate in
 
 > Our weekly meetings are mostly for socializing and getting on-the-air, but we also take time to plan events. These events are a great way get involved with the club beyond attending meetings! We try to run these major events every year.
 
@@ -154,7 +154,7 @@ The ARRL (Amateur Radio Relay League) maintains a list of many licensing opportu
 #### What to bring to an exam
 
 - Photo ID
-- #2 Pencil
+- \#2 Pencil
 - FCC FRN Number
   - [Register for an FRN prior to the exam here](https://apps.fcc.gov/coresWeb/publicHome.do)
 - Calculator with erasable memory
