@@ -1,4 +1,4 @@
-# RemoteRig Information, Yeasu FT-950
+# RemoteRig Connections, Yeasu FT-950
 
 ## Overview & Purpose
 
@@ -20,15 +20,17 @@ The setup in MLH consists of the local RemoteRig Box, the local FT-950 (MLH 950)
 
 #### Yeasu FT-950
 
-##### Microphones, RigControl, Dummy Loads
-
 The FT-950 in MLH should be connected to 5W or higher dummy loads, on both rear antenna ports. This is for when engaging the internal antenna tuner (which is necessary to engage the internal tuner on the CC unit). The MLH 950 should NEVER be attached to a microphone, keying circuit, or RigControl/CAT cable directly! In fact, this radio should never be keyed at all, except by the internal antenna tuner function. The result could be disastrous to the finals of the radio and to the dummy loads attached. This is because the power output setting of the MLH 950 is mirrored by the CC 950, so if you want to transmit 100W out of the CC 950, the MLH 950 must be set to 100W, but the MLH 950 should never itself transmit.
 
 All microphone connections should occur through the MLH RemoteRig box, **never** the MLH 950 front panel. All RigControl/CAT control connections must be routed through the RemoteRig box too. Remember, you are **not** trying the key the MLH 950. You are trying to key the CC 950. 
 
 To mute the speaker of the MLH 950, a 1/4" jack adaptor has been inserted into the headphone port. The audio you want to hear (coming from the CC 950) is emitted from the audio output port of the MLH RemoteRig box.
 
+*TL;DR: Never directly key the Yeasu FT-950 in MLH in any way, not with a microphone, not with a PC.*
+
 #### RemoteRig Box
+
+Usefull information goes here - BHJ
 
 
 
@@ -40,7 +42,14 @@ The setup in the Campus Center (CC) is located in the Mezzanine level maintenanc
 
 ### Web Interface
 
+The following web interface links are the same address, but on different ports. The interface on explicit port 8080 is the interface for the relay box & antenna rotator unit. The interface without an explicit port number is the web interface of the RemoteRig Box in the CC.
+
 **RemoteRig Box in CC (Remote):**	w9hhxedge.cc.nebula.msoe.edu
 
 **RotorController/Relay Box in CC:**	w9hhxedge.cc.nebula.msoe.edu:8080
 
+### Hardware Connections
+
+#### Yeasu FT-950
+
+The two antenna ports on the rear of the CC 950 should be connected to the coaxial cables running from the roof. These are the antenna lines from the dipole and beam mounted on the roof of the CC.
