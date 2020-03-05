@@ -1,5 +1,12 @@
-site_name: ARC Guide
+site_name: MSOE ARC Guide
+site_description: "A guide for MSOE's Amateur Radio Club."
+site_author: Ben Jacobs, Chase Glenn
+site_url: 'https://cape-optional.github.io/MSOE_ARC_Guide/'
 
+# Copyright
+copyright: 'Copyright &copy; 2019 - 2020 The Predecessors'
+
+# Navigation
 nav:
     - Home: index.md
     - About: about.md
@@ -8,7 +15,28 @@ nav:
     - Recruitment: recruitment.md
     - RemoteRig Setup: remoterig.md
     - Roles and Offices: offices_roles.md
-    
-theme: material
 
-copyright: Written by The Predecessors 2020
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'red'
+    accent: 'red'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Customization
+extra:
+  #manifest: 'manifest.webmanifest'
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/W9HHX/'
+    - type: 'gmail'
+      link: 'https://www.facebook.com/W9HHX/'  
+
+      
+      
+      
+#### This file constructed with reference to: https://squidfunk.github.io/mkdocs-material/getting-started/
