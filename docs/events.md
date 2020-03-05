@@ -8,9 +8,15 @@
 
 At our yearly High Altitude Balloon Launch, we attach a small radio transmitter to a large Mylar balloon, fill the balloon with helium, set up a ground tracking station, and release the balloon over Lake Michigan. With APRS or WSPR capabilities, the balloon payload's transmissions of GPS position data are received by many stations around the globe as it traverses the world in the jetstream. Stations that receive these transmissions upload the position of the balloon to the internet, where its progress can be tracked by everyone, making it a very cool experiment. These balloons are known to travel at speeds of up to 120MPH for many weeks before popping.
 
+#### Advertising the Launch
+
+Two sizes of posters were created in 2019 for advertising the launch. One is a large size to be printed by the MSOE IT Plotters in color and hung above the IT service desk in the CC, and one is an 8.5x11 size that can be printed in color by student life and hung on bulletin boards around campus. These files are available as downloadable/editable vector graphics on the W9HHX Canva account (which is linked to the Google account). See separate page for more info about advertising with posters.
+
+Make sure to hype the launch up to club members in the weeks leading up to it, and also make sure to submit a publicity statement to the MSOE Newsroom afterwards. Our club advisors can assist with identifying the right person to send that to.
+
 #### Purchasing a Balloon
 
-The High Altitude Balloon (HAB) kit may be purchased from Mr. Bill Brown WB8ELK, who resides in Huntsville, AL. His [website](http://www.wb8elk.com/) has useful information about the kits, although the information seems to border on out-of-date. Purchases are made through PayPal, so someone needs to have an account they are willing to use for this purpose. In the past, a club advisor provided the PayPal account, although the Club Treasurer could also. 
+The High Altitude Balloon (HAB) kit may be purchased from Mr. Bill Brown WB8ELK, who resides in Huntsville, AL. His [website](http://www.wb8elk.com/) has useful information about the kits. Purchases are made through PayPal, so someone needs to have an account they are willing to use for this purpose. In the past, a club advisor provided the PayPal account, although the Club Treasurer could also. 
 
 The HAB kits comes in two varieties as of Feb. 2020. These are APRS (2m) and WSPR (HF). Both serve the same purpose of reporting GPS data in packets, and as of the above date the W9HHX club as only tried the APRS variety. APRS is perhaps the most widely supported reporting network, because WSPR is not meant for that purpose necessarily. However, the upside of WSPR is over-the-horizon reporting, meaning the range of the balloon is much greater, and the signals may be received even when the balloon is over an ocean. This benefit is gained through the use of HF frequencies rather than the 2m band, which has a line of sight limitation.
 
@@ -51,10 +57,11 @@ At the time of the 2019 HAB launch, it was determined no waivers were needed fro
 
 Detailed instructions are given on filling in the instruction manual that comes in the kit. These are just tips from past experiences that may be useful.
 
-- Although Mylar balloons are not sensitive to the oils from our hands in the same way latex balloons are (which will pop due to stress differentials due to oils) it is still recommended that everyone wear latex gloves while preparing the balloon for launch, just as good practice.
+Although Mylar balloons are not sensitive to the oils from our hands in the same way latex balloons are (which will pop due to stress differentials due to oils) it is still recommended that everyone wear latex gloves while preparing the balloon for launch, just as good practice.
 
-- Fill the balloon slowly and follow all instructions on the sheet step-by-step. Slow and steady wins this race. It is recommended that you periodically remove the rubber tube (but not the white plastic tubing or the weight bag) and check the buoyancy against what is recommended on the instruction sheet. Better to check often and not overfill, because it was unclear how to get extra gas out of the balloon, although it is supposedly possible.
-- Give at least 25 to 35 minutes for the filling process. Better not to be rushed
+Fill the balloon slowly and follow all instructions on the sheet step-by-step. Slow and steady wins this race. It is recommended that you periodically remove the rubber tube (but not the white plastic tubing or the weight bag) and check the buoyancy against what is recommended on the instruction sheet. Better to check often and not overfill, because it was unclear how to get extra gas out of the balloon, although it is supposedly possible.
+
+Give at least 25 to 35 minutes for the filling process. Better not to be rushed
 
 #### Tips on Launching the Balloon
 
@@ -80,7 +87,7 @@ The National Oceanic and Atmospheric Administration (NOAA) offers several useful
 
 
 
-## Hidden Transmitter Hunt 
+## Hidden Transmitter Hunt
 
 #### Overview
 
@@ -104,6 +111,12 @@ In addition, the transmit power of the hidden transmitter (~130mW) might be way 
 
 As of Feb 2019, we have had one mildly successful hunt, but the issues described above reduced the team's ability to find the transmitter in a fun way. That said, we planned the hunt the day-of, in only an hour.
 
+#### Useful Info Pages on Transmitter Hunting
+
+The site of Joe Moell K0OV, called ["Homing In"](http://www.homingin.com/) is a great resource for beginners to advanced.
+
+
+
 ## Ozaukee Amateur Radio Club Swapfest
 
 Amateur Radio Swapfests are a great way to meet new people in the hobby, and to buy or sell radio equipment. They're essentially huge yardsales for all types of electronics equipment! If you can think it up, it will probably be there at the larger swapfests. The biggest swapfest that many radio enthusiasts try to attend is the Dayton 'Hamvention', but there are many more moderately sized ones around Milwaukee which we like to attend for the afternoon.
@@ -117,6 +130,8 @@ The [Ozaukee Amateur Radio Club website](http://www.ozaukeeradioclub.org/) shoul
 Recommended items to bring include promotional materials (posters, photos, video) radio demonstrations, and information about MSOE and our club. Make the table appealing to young people who might be considering MSOE and who are interested in learning about amateur radio as a hobby. Remember that people are more likely to be interested in what you can do with radio rather than pure radio technology itself.
 
 In addition, if there have been any donations of un-needed equipment recently, it may be worth bringing to sell or trade at the swapfest.
+
+
 
 ## Amateur Radio License Day
 
@@ -150,6 +165,8 @@ More about what to bring to the exam and related information may be found at the
 #### Getting to the Exam
 
 In past years, we have utilized personal cars to get to and from the exam site. However, if there was a large enough interest, the MSOE athletic vans could be utilized. See MSOE Student Life for important rules on transporting students using any type of vehicle.
+
+
 
 ## NACC Collegiate Championship Contest
 

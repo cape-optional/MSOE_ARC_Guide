@@ -20,3 +20,4 @@ If you are a member of the greater Amateur Radio Community (not affiliated with 
 ## Club History
 
 The MSOE Amateur Radio Club was founded in 1914 at the Milwaukee School of Engineering, making it the longest running organization at our university. Over the years, we've been home to students of all majors and backgrounds as a fun place to hang out, discuss technical subjects, learn outside the classroom about RF and wireless technology, and get on the radio to make contacts.
+

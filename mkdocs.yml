@@ -5,6 +5,8 @@ nav:
     - About: about.md
     - Contact: contact.md
     - Events: events.md
+    - Recruitment: recruitment.md
+    - RemoteRig Setup: remoterig.md
     
 theme: material
 
