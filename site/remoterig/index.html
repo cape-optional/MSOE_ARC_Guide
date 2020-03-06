@@ -1,0 +1,628 @@
+
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.6.0">
+    
+    
+      
+        <title>RemoteRig Setup - ARC Guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.1b62728e.css">
+      
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.268332fc.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
+    
+    
+    
+      
+    
+    
+  </head>
+  
+    <body dir="ltr">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#remoterig-connections-yeasu-ft-950" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="ARC Guide" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            <span class="md-header-nav__topic">
+              ARC Guide
+            </span>
+            <span class="md-header-nav__topic">
+              
+                RemoteRig Setup
+              
+            </span>
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main" role="main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href=".." title="ARC Guide" class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </a>
+    ARC Guide
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../about/" title="About" class="md-nav__link">
+      About
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../contact/" title="Contact" class="md-nav__link">
+      Contact
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../events/" title="Events" class="md-nav__link">
+      Events
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../recruitment/" title="Recruitment" class="md-nav__link">
+      Recruitment
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        RemoteRig Setup
+      </label>
+    
+    <a href="./" title="RemoteRig Setup" class="md-nav__link md-nav__link--active">
+      RemoteRig Setup
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview-purpose" class="md-nav__link">
+    Overview &amp; Purpose
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup-in-mlh" class="md-nav__link">
+    Setup in MLH
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web-interface" class="md-nav__link">
+    Web Interface
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-connections" class="md-nav__link">
+    Hardware Connections
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#yeasu-ft-950" class="md-nav__link">
+    Yeasu FT-950
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#remoterig-box" class="md-nav__link">
+    RemoteRig Box
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup-in-the-campus-center" class="md-nav__link">
+    Setup in the Campus Center
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reaching-the-physical-location" class="md-nav__link">
+    Reaching the Physical Location
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#web-interface_1" class="md-nav__link">
+    Web Interface
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-connections_1" class="md-nav__link">
+    Hardware Connections
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#yeasu-ft-950_1" class="md-nav__link">
+    Yeasu FT-950
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../offices_roles/" title="Roles and Offices" class="md-nav__link">
+      Roles and Offices
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview-purpose" class="md-nav__link">
+    Overview &amp; Purpose
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup-in-mlh" class="md-nav__link">
+    Setup in MLH
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web-interface" class="md-nav__link">
+    Web Interface
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-connections" class="md-nav__link">
+    Hardware Connections
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#yeasu-ft-950" class="md-nav__link">
+    Yeasu FT-950
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#remoterig-box" class="md-nav__link">
+    RemoteRig Box
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup-in-the-campus-center" class="md-nav__link">
+    Setup in the Campus Center
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#reaching-the-physical-location" class="md-nav__link">
+    Reaching the Physical Location
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#web-interface_1" class="md-nav__link">
+    Web Interface
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardware-connections_1" class="md-nav__link">
+    Hardware Connections
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#yeasu-ft-950_1" class="md-nav__link">
+    Yeasu FT-950
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="remoterig-connections-yeasu-ft-950">RemoteRig Connections, Yeasu FT-950</h1>
+<h2 id="overview-purpose">Overview &amp; Purpose</h2>
+<p>Previous to the Great Exodus of 2018, our club room was located on the third floor of the CC, on the East facing wall. This was conveninet for us because all our antennas were essentially immediately above our room, making it simple and easy for the coax to be send down through a PVC pipe into the room, and from there attached to the radios.</p>
+<p>When then-Dean of Students Kip Kussman decided the school needed more office space, we were forced to move from this room in the CC and transfer our equipment to our current room in MLH. Thankfully we were given this new space, but it presented new problems to overcome. For instance, our antennas were not movable, and they were now a city block away, still on top of the CC. To get around this issue, we implemented a network link system, hereafter known as RemoteRig. This setup allows an operator in the MLH club room on the Yeasu FT-950 to seamlessly control the radio with all functionality, while remote-controlling an identical setup in the CC, which is where the antennas are actually connected, and where the RF is actually radiated.</p>
+<h2 id="setup-in-mlh">Setup in MLH</h2>
+<h3 id="web-interface">Web Interface</h3>
+<p>This web address is the control interface for the local RemoteRig box in MLH. It should be accessible from any campus network. It offers settings for all functionality of the RemoteRig box.</p>
+<p><strong>RemoteRig Box in MLH (Local):</strong>   w9hhxedgemlh.nebula.msoe.edu</p>
+<h3 id="hardware-connections">Hardware Connections</h3>
+<p>The setup in MLH consists of the local RemoteRig Box, the local FT-950 (MLH 950), the Club Room PC, and various other hardware and connections.</p>
+<h4 id="yeasu-ft-950">Yeasu FT-950</h4>
+<p>The FT-950 in MLH should be connected to 5W or higher dummy loads, on both rear antenna ports. This is for when engaging the internal antenna tuner (which is necessary to engage the internal tuner on the CC unit). The MLH 950 should NEVER be attached to a microphone, keying circuit, or RigControl/CAT cable directly! In fact, this radio should never be keyed at all, except by the internal antenna tuner function. The result could be disastrous to the finals of the radio and to the dummy loads attached. This is because the power output setting of the MLH 950 is mirrored by the CC 950, so if you want to transmit 100W out of the CC 950, the MLH 950 must be set to 100W, but the MLH 950 should never itself transmit.</p>
+<p>All microphone connections should occur through the MLH RemoteRig box, <strong>never</strong> the MLH 950 front panel. All RigControl/CAT control connections must be routed through the RemoteRig box too. Remember, you are <strong>not</strong> trying the key the MLH 950. You are trying to key the CC 950. </p>
+<p>To mute the speaker of the MLH 950, a 1/4" jack adaptor has been inserted into the headphone port. The audio you want to hear (coming from the CC 950) is emitted from the audio output port of the MLH RemoteRig box.</p>
+<p><em>TL;DR: Never directly key the Yeasu FT-950 in MLH in any way, not with a microphone, not with a PC.</em></p>
+<h4 id="remoterig-box">RemoteRig Box</h4>
+<p>Usefull information goes here - BHJ</p>
+<h2 id="setup-in-the-campus-center">Setup in the Campus Center</h2>
+<h3 id="reaching-the-physical-location">Reaching the Physical Location</h3>
+<p>The setup in the Campus Center (CC) is located in the Mezzanine level maintenance closet area. Take the double doors that face the main walkway, then turn right and open the locked door. A club advisor will provide the key. Take the hallway past the door (mind your head) until you reach an equipment cabinet on the left. This is where the CC setup is stored. In fact, it is directly above our old club room. </p>
+<h3 id="web-interface_1">Web Interface</h3>
+<p>The following web interface links are the same address, but on different ports. The interface on explicit port 8080 is the interface for the relay box &amp; antenna rotator unit. The interface without an explicit port number is the web interface of the RemoteRig Box in the CC.</p>
+<p><strong>RemoteRig Box in CC (Remote):</strong>   w9hhxedge.cc.nebula.msoe.edu</p>
+<p><strong>RotorController/Relay Box in CC:</strong>    w9hhxedge.cc.nebula.msoe.edu:8080</p>
+<h3 id="hardware-connections_1">Hardware Connections</h3>
+<h4 id="yeasu-ft-950_1">Yeasu FT-950</h4>
+<p>The two antenna ports on the rear of the CC 950 should be connected to the coaxial cables running from the roof. These are the antenna lines from the dipole and beam mounted on the roof of the CC.</p>
+                
+                  
+                
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../recruitment/" title="Recruitment" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Recruitment
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../offices_roles/" title="Roles and Offices" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Roles and Offices
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Written by The Predecessors 2020
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.808e90bb.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
+      
+    
+  </body>
+</html>
