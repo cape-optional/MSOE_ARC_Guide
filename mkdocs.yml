@@ -4,7 +4,7 @@ site_author: Ben Jacobs, Chase Glenn
 site_url: 'https://cape-optional.github.io/MSOE_ARC_Guide/'
 
 # Copyright
-copyright: 'Copyright &copy; 2019 - 2020 The Predecessors'
+copyright: 'Copyright &copy; 2020 The Predecessors. Long live the Predecessors.'
 
 # Navigation
 nav:
@@ -15,6 +15,7 @@ nav:
     - Recruitment: recruitment.md
     - RemoteRig Setup: remoterig.md
     - Roles and Offices: offices_roles.md
+    - Online Accounts: accounts_services.md
 
 # Configuration
 theme:
@@ -32,11 +33,7 @@ extra:
   #manifest: 'manifest.webmanifest'
   social:
     - type: 'facebook'
-      link: 'https://www.facebook.com/W9HHX/'
-    - type: 'gmail'
-      link: 'https://www.facebook.com/W9HHX/'  
-
-      
+      link: 'https://www.facebook.com/W9HHX/'      
       
       
 #### This file constructed with reference to: https://squidfunk.github.io/mkdocs-material/getting-started/
