@@ -12,7 +12,7 @@ When then-Dean of Students Kip Kussman decided the school needed more office spa
 
 This web address is the control interface for the local RemoteRig box in MLH. It should be accessible from any campus network. It offers settings for all functionality of the RemoteRig box.
 
-**RemoteRig Box in MLH (Local):** [w9hhxedgemlh.nebula.msoe.edu](w9hhxedgemlh.nebula.msoe.edu)
+**RemoteRig Box in MLH (Local):** [w9hhxedgemlh.nebula.msoe.edu](http://w9hhxedgemlh.nebula.msoe.edu)
 
 ### Hardware Connections
 
@@ -44,9 +44,9 @@ The setup in the Campus Center (CC) is located in the Mezzanine level maintenanc
 
 The following web interface links are the same address, but on different ports. The interface on explicit port 8080 is the interface for the relay box & antenna rotator unit. The interface without an explicit port number is the web interface of the RemoteRig Box in the CC.
 
-**RemoteRig Box in CC (Remote):** [w9hhxedge.cc.nebula.msoe.edu](w9hhxedge.cc.nebula.msoe.edu)
+**RemoteRig Box in CC (Remote):** [w9hhxedge.cc.nebula.msoe.edu](http://w9hhxedge.cc.nebula.msoe.edu)
 
-**RotorController/Relay Box in CC:** [w9hhxedge.cc.nebula.msoe.edu:8080](w9hhxedge.cc.nebula.msoe.edu:8080)
+**RotorController/Relay Box in CC:** [w9hhxedge.cc.nebula.msoe.edu:8080](http://w9hhxedge.cc.nebula.msoe.edu:8080)
 
 ### Hardware Connections
 
