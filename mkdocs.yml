@@ -36,7 +36,9 @@ extra:
   #manifest: 'manifest.webmanifest'
   social:
     - type: 'facebook'
-      link: 'https://www.facebook.com/W9HHX/'      
+      link: 'https://www.facebook.com/W9HHX/'
+    - type: 'twitter'
+      link: 'https://twitter.com/w9hhx'
       
 
 # Extensions

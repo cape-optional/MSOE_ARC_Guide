@@ -30,7 +30,7 @@ QRZ is a website where people can look up W9HHX and learn about our station and 
 
 ## RemoteRig Box Web Interfaces
 
-*(See RemoteRig page for web addresses)*
+*(See [RemoteRig page](remoterig.md) for web addresses)*
 
 The RemoteRig web interfaces require username/password to modify settings. The username for all of the RemoteRig web interface pages is simply "W9HHX" without the quotes. Passwords may be found in the W9HHX password book.
 
