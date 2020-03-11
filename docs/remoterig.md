@@ -44,9 +44,9 @@ The setup in the Campus Center (CC) is located in the Mezzanine level maintenanc
 
 The following web interface links are the same address, but on different ports. The interface on explicit port 8080 is the interface for the relay box & antenna rotator unit. The interface without an explicit port number is the web interface of the RemoteRig Box in the CC.
 
-**RemoteRig Box in CC (Remote):** [w9hhxedge.cc.nebula.msoe.edu](http://w9hhxedge.cc.nebula.msoe.edu)
+**RemoteRig Box in CC (Remote):** [w9hhxedgecc.nebula.msoe.edu](http://w9hhxedgecc.nebula.msoe.edu)
 
-**RotorController/Relay Box in CC:** [w9hhxedge.cc.nebula.msoe.edu:8080](http://w9hhxedge.cc.nebula.msoe.edu:8080)
+**RotorController/Relay Box in CC:** [w9hhxedgecc.nebula.msoe.edu:8080](http://w9hhxedgecc.nebula.msoe.edu:8080)
 
 ### Hardware Connections
 
